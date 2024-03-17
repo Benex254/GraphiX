@@ -1,0 +1,1 @@
+import { Fabric } from "./dependencies/fabric.js";
